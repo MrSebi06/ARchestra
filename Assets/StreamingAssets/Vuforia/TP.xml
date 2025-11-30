@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="wall" size="30.000000 21.210938" />
+    <ImageTarget name="chords" size="10.000000 14.118199" />
+    <ImageTarget name="arp" size="10.000000 14.118199" />
+    <ImageTarget name="bass" size="10.000000 14.127580" />
+    <ImageTarget name="drums" size="10.000000 14.127580" />
+    <ImageTarget name="arp2" size="10.000000 14.104967" />
+    <ImageTarget name="bass2" size="10.000000 14.114339" />
+    <ImageTarget name="chords2" size="10.000000 14.104967" />
+    <ImageTarget name="drums2" size="10.000000 14.114339" />
+  </Tracking>
+</QCARConfig>
